@@ -52,13 +52,12 @@ My goal is to become a strong full-stack developer and work on meaningful projec
 
 ---
 
-## 📊 GitHub Stats
-
 ### 🔸 Contributions & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habib0088&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habib0088&show_icons=true&theme=default)
 
 ### 🔸 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib0088&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib0088&layout=compact&theme=default)
 
 ### 🔸 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habib0088)
+![Streak](https://streak-stats.demolab.com?user=Habib0088)
+
