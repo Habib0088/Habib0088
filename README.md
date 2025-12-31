@@ -61,14 +61,13 @@ Currently focusing on modern JavaScript frameworks and real-world projects.
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habib0088&show_icons=true&theme=default)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+### 🔹 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib0088&layout=compact&theme=default)
 
-
+### 🔹 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Habib0088)
 <div align="center">
 
 ✨ *Thanks for visiting — feel free to connect and check out my projects!* ✨
