@@ -58,14 +58,16 @@ Currently focusing on modern JavaScript frameworks and real-world projects.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Habib0088&show_icons=true&theme=default" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib0088&layout=compact&theme=default" />
-</p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Habib0088" />
-</p>
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habib0088&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib0088&layout=compact)
+
+![Streak](https://streak-stats.demolab.com?user=Habib0088)
+
 
 ---
 
