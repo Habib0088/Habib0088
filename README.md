@@ -27,7 +27,8 @@ Currently focusing on modern JavaScript frameworks and real-world projects.
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
@@ -61,21 +62,13 @@ Currently focusing on modern JavaScript frameworks and real-world projects.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habib0088&show_icons=true&theme=default" />
-</p>
 
-### 🔹 Languages Used
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib0088&layout=compact&theme=default" />
-</p>
 
-### 🔹 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Habib0088" />
-</p>
+
+
+
+
 
 <div align="center">
 
