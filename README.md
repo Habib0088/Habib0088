@@ -46,4 +46,19 @@ My goal is to become a strong full-stack developer and work on meaningful projec
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
+## 🌐 Social Links
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/habib-sarker-dev/  
+- 🧑‍💻 **GitHub:** https://github.com/Habib0088  
 
+---
+
+## 📊 GitHub Stats
+
+### 🔸 Contributions & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habib0088&show_icons=true)
+
+### 🔸 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib0088&layout=compact)
+
+### 🔸 Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habib0088)
